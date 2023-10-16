@@ -81,8 +81,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries or feedback, please contact [Your Name] at [Your Email Address].
+For any inquiries or feedback, please contact [JideOyelayo1@Gmail.com].
 
 ---
-
-Feel free to customize this README file with your name, contact information, and additional details as needed. It will serve as a useful reference for anyone interested in your project.
